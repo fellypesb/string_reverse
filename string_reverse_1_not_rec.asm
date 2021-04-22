@@ -1,3 +1,8 @@
+; Code that reverses a string recursively
+; Subject: Arquitetura de Computadores
+; Autor: Fellype Siqueira Barroso
+
+
 JMP start
 
 string: DB 0
