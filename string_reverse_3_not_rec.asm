@@ -1,4 +1,9 @@
-JMP start
+; Code that iteratively reverse a string
+; Subject: Arquitetura de Computadores
+; Autor: Fellype Siqueira Barroso
+
+
+	JMP start
 
 string: DB "UFOPA0" ; 0 == 48(ASCII)
 
