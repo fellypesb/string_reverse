@@ -1,4 +1,4 @@
-; Code that reverses a string recursively
+; Code that iteratively reverse a string
 ; Subject: Arquitetura de Computadores
 ; Autor: Fellype Siqueira Barroso
 
