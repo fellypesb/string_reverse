@@ -3,7 +3,7 @@
 ; Autor: Fellype Siqueira Barroso
 
 
-JMP start
+	JMP start
 
 string: DB 0
 	DB "UFOPA"
